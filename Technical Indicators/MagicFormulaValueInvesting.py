@@ -7,12 +7,6 @@ Created on Fri Aug 12 09:41:34 2022
 @author: 91982
 """
 
-# ============================================================================
-# Greenblatt's Magic Formula Implementation
-# Author - Mayank Rasu
-
-# Please report bugs/issues in the Q&A section
-# =============================================================================
 
 import requests
 from bs4 import BeautifulSoup
