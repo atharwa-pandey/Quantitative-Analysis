@@ -1,7 +1,6 @@
 # ============================================================================
 # Piotroski f score implementation
-# Author - Mayank Rasu
-
+# Author - 97982
 # Please report bugs/issues in the Q&A section
 # =============================================================================
 
