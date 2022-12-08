@@ -1,6 +1,6 @@
 # =============================================================================
 # Backtesting strategy - III : combining renko with obv indicator
-# Author : Mayank Rasu
+# Author : 91982
 
 # Please report bug/issues in the Q&A section
 # =============================================================================
